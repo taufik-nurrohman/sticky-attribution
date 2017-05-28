@@ -3,7 +3,9 @@ Sticky Attribution
 
 > Insert attribution next to the copied text.
 
-![Sticky Attribution](https://tovic.github.io/sticky-attribution/sticky-attribution.gif)
+![Sticky Attribution](https://cloud.githubusercontent.com/assets/1669261/26535009/d7db0a80-4453-11e7-8aa5-0f541149d381.gif)
+
+**Demo:** <https://tovic.github.io/sticky-attribution>
 
 Usage
 -----
