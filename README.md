@@ -5,6 +5,8 @@ Sticky Attribution
 
 ![Sticky Attribution](https://cloud.githubusercontent.com/assets/1669261/26535009/d7db0a80-4453-11e7-8aa5-0f541149d381.gif)
 
+Tested on Mozilla Firefox 53.0.3, Google Chrome 58.0.3029.110 and Internet Explorer 11.0.9600.16663.
+
 **Demo:** <https://tovic.github.io/sticky-attribution>
 
 Usage
