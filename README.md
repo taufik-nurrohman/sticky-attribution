@@ -7,7 +7,7 @@ Sticky Attribution
 
 Tested on Mozilla Firefox 53.0.3, Google Chrome 58.0.3029.110 and Internet Explorer 11.0.9600.16663.
 
-**Demo:** <https://tovic.github.io/sticky-attribution>
+**Demo:** <https://taufik-nurrohman.github.io/sticky-attribution>
 
 Usage
 -----
