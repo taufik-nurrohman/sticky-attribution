@@ -4,7 +4,7 @@
  * =======================================================
  *
  *   Author: Taufik Nurrohman
- *   URL: https://github.com/tovic
+ *   URL: https://github.com/taufik-nurrohman
  *   License: Public Domain
  *
  * -------------------------------------------------------
